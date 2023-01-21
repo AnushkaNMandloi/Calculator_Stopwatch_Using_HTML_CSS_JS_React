@@ -1,0 +1,93 @@
+#credentials{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    paddinG: 5%;
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+
+h1{
+    margin-left:38%;
+}
+
+label {
+    margin-left: 13%;
+    width: 300px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  label span {
+    font-size: 1rem;
+  }
+  
+  label.error {
+      color: red;
+      font-size: 1rem;
+      display: block;
+      margin-top: 5px;
+  }
+  
+  input.error, textarea.error {
+      border: 1px dashed red;
+      font-weight: 300;
+      color: red;
+  }
+
+#heading{
+    background-color: rgb(14, 104, 156) ;
+    padding: 0.1%;
+}
+
+.box{
+    padding: 1%;
+    margin-left: 23%;
+    width: 40%;
+}
+
+input{
+    width: 50%;
+    padding: 0.7%;
+}
+
+footer{
+    background-color: rgb(14, 104, 156) ;
+    width:100%;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    text-align: center;
+    margin-top: 3%;
+    padding-top:1%;
+    padding-bottom:1%;
+    font-weight: bold;
+}
+
+#credentials2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    paddinG: 5%;
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+#footer2{
+    background-color: rgb(14, 104, 156) ;
+    width:100%;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    text-align: center;
+    margin-top: 6%;
+    padding-top:1%;
+    padding-bottom:1%;
+    font-weight: bold;
+}
+
+#btnLogout{
+    float:right;
+    margin-right: 3%;
+    margin-top: 0.8%;
+}
+
